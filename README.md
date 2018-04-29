@@ -9,7 +9,7 @@ CW 1:
         FTSE100 datasets are from uk.investing.com
 CW 2: 
         
-        25%, 3 pages paper on the topic of Bitcoin Protocal. Grade (?/25) given on ?
+        25%, 3 pages paper on the topic of Bitcoin Protocol. Grade (?/25) given on ?
         25%, develop a Blockchain app demo. Grade (?/25) given on ?
 
 
